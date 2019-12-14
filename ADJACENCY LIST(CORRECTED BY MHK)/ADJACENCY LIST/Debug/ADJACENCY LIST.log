@@ -1,0 +1,21 @@
+﻿Build started 11/18/2018 7:26:55 AM.
+     1>Project "C:\tahawork\Semester 4\Data Structures\ADJACENCY LIST(CORRECTED BY MHK)\ADJACENCY LIST\ADJACENCY LIST.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ADJACENCY LIST.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\ADJACENCY LIST.unsuccessfulbuild".
+         Touching "Debug\ADJACENCY LIST.lastbuildstate".
+     1>Done Building Project "C:\tahawork\Semester 4\Data Structures\ADJACENCY LIST(CORRECTED BY MHK)\ADJACENCY LIST\ADJACENCY LIST.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.43

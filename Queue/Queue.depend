@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537121495 source:c:\tahawork\semester 4\data structures\queue\main.cpp
+	<stdlib.h>
+	<iostream>
+

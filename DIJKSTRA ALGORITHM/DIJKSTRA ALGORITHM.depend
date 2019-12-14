@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542169437 source:c:\tahawork\semester 4\data structures\dijkstra algorithm\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+

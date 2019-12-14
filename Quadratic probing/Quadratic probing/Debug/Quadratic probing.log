@@ -1,0 +1,15 @@
+﻿Build started 9/10/2018 1:48:45 AM.
+     1>Project "C:\tahawork\Semester 4\Data Structures\Quadratic probing\Quadratic probing\Quadratic probing.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Quadratic probing.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Quadratic probing.cpp"
+         Quadratic probing.cpp
+     1>c:\tahawork\semester 4\data structures\quadratic probing\quadratic probing\quadratic probing.cpp(95): warning C4715: 'Quadratic_Probbing' : not all control paths return a value
+     1>c:\tahawork\semester 4\data structures\quadratic probing\quadratic probing\quadratic probing.cpp(128): error C4716: 'Hashing_Search' : must return a value
+     1>Done Building Project "C:\tahawork\Semester 4\Data Structures\Quadratic probing\Quadratic probing\Quadratic probing.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.82

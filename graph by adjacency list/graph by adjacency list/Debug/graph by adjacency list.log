@@ -1,0 +1,20 @@
+﻿Build started 11/11/2018 6:58:10 AM.
+     1>Project "C:\tahawork\Semester 4\Data Structures\graph by adjacency list\graph by adjacency list\graph by adjacency list.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\graph by adjacency list.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "graph by adjacency list.cpp"
+         graph by adjacency list.cpp
+     1>c:\tahawork\semester 4\data structures\graph by adjacency list\graph by adjacency list\graph by adjacency list.cpp(146): error C2601: 'delete_edge' : local function definitions are illegal
+                 c:\tahawork\semester 4\data structures\graph by adjacency list\graph by adjacency list\graph by adjacency list.cpp(118): this line contains a '{' which has not yet been matched
+     1>c:\tahawork\semester 4\data structures\graph by adjacency list\graph by adjacency list\graph by adjacency list.cpp(179): error C2601: 'Print_Vertex' : local function definitions are illegal
+                 c:\tahawork\semester 4\data structures\graph by adjacency list\graph by adjacency list\graph by adjacency list.cpp(118): this line contains a '{' which has not yet been matched
+     1>c:\tahawork\semester 4\data structures\graph by adjacency list\graph by adjacency list\graph by adjacency list.cpp(195): error C2601: 'main' : local function definitions are illegal
+                 c:\tahawork\semester 4\data structures\graph by adjacency list\graph by adjacency list\graph by adjacency list.cpp(118): this line contains a '{' which has not yet been matched
+     1>c:\tahawork\semester 4\data structures\graph by adjacency list\graph by adjacency list\graph by adjacency list.cpp(271): fatal error C1075: end of file found before the left brace '{' at 'c:\tahawork\semester 4\data structures\graph by adjacency list\graph by adjacency list\graph by adjacency list.cpp(118)' was matched
+     1>Done Building Project "C:\tahawork\Semester 4\Data Structures\graph by adjacency list\graph by adjacency list\graph by adjacency list.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.66

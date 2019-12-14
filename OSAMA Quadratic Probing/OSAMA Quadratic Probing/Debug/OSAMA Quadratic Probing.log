@@ -1,0 +1,30 @@
+﻿Build started 10/7/2018 5:59:31 PM.
+     1>Project "C:\tahawork\Semester 4\Data Structures\OSAMA Quadratic Probing\OSAMA Quadratic Probing\OSAMA Quadratic Probing.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\OSAMA Quadratic Probing.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "OSAMA Quadratic Probing.cpp"
+         OSAMA Quadratic Probing.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\OSAMA Quadratic Probing.exe.embed.manifest.res" "Debug\OSAMA Quadratic Probing_manifest.rc" 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\tahawork\Semester 4\Data Structures\OSAMA Quadratic Probing\Debug\OSAMA Quadratic Probing.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OSAMA Quadratic Probing.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\tahawork\Semester 4\Data Structures\OSAMA Quadratic Probing\Debug\OSAMA Quadratic Probing.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\tahawork\Semester 4\Data Structures\OSAMA Quadratic Probing\Debug\OSAMA Quadratic Probing.lib" /MACHINE:X86 "Debug\OSAMA Quadratic Probing.exe.embed.manifest.res"
+         "Debug\OSAMA Quadratic Probing.obj"
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\OSAMA Quadratic Probing.exe.embed.manifest" /manifest "Debug\OSAMA Quadratic Probing.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\OSAMA Quadratic Probing.exe.embed.manifest.res" "Debug\OSAMA Quadratic Probing_manifest.rc" 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\tahawork\Semester 4\Data Structures\OSAMA Quadratic Probing\Debug\OSAMA Quadratic Probing.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OSAMA Quadratic Probing.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\tahawork\Semester 4\Data Structures\OSAMA Quadratic Probing\Debug\OSAMA Quadratic Probing.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\tahawork\Semester 4\Data Structures\OSAMA Quadratic Probing\Debug\OSAMA Quadratic Probing.lib" /MACHINE:X86 "Debug\OSAMA Quadratic Probing.exe.embed.manifest.res"
+         "Debug\OSAMA Quadratic Probing.obj"
+         Debug\stdafx.obj
+         OSAMA Quadratic Probing.vcxproj -> C:\tahawork\Semester 4\Data Structures\OSAMA Quadratic Probing\Debug\OSAMA Quadratic Probing.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\OSAMA Quadratic Probing.unsuccessfulbuild".
+         Touching "Debug\OSAMA Quadratic Probing.lastbuildstate".
+     1>Done Building Project "C:\tahawork\Semester 4\Data Structures\OSAMA Quadratic Probing\OSAMA Quadratic Probing\OSAMA Quadratic Probing.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.68

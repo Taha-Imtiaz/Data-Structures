@@ -1,0 +1,20 @@
+﻿Build started 11/15/2018 6:12:42 PM.
+     1>Project "C:\tahawork\Semester 4\Data Structures\kRUSKALS(2ND)\kRUSKALS(2ND)\kRUSKALS(2ND).vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\kRUSKALS(2ND).unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "kRUSKALS(2ND).cpp"
+         kRUSKALS(2ND).cpp
+     1>c:\tahawork\semester 4\data structures\kruskals(2nd)\kruskals(2nd)\kruskals(2nd).cpp(8): error C2864: 'vertex::down' : only static const integral data members can be initialized within a class
+     1>c:\tahawork\semester 4\data structures\kruskals(2nd)\kruskals(2nd)\kruskals(2nd).cpp(9): error C2864: 'vertex::head' : only static const integral data members can be initialized within a class
+     1>c:\tahawork\semester 4\data structures\kruskals(2nd)\kruskals(2nd)\kruskals(2nd).cpp(17): error C2864: 'edge::temp' : only static const integral data members can be initialized within a class
+     1>c:\tahawork\semester 4\data structures\kruskals(2nd)\kruskals(2nd)\kruskals(2nd).cpp(18): error C2864: 'edge::next' : only static const integral data members can be initialized within a class
+     1>c:\tahawork\semester 4\data structures\kruskals(2nd)\kruskals(2nd)\kruskals(2nd).cpp(19): error C2864: 'edge::weight' : only static const integral data members can be initialized within a class
+     1>c:\tahawork\semester 4\data structures\kruskals(2nd)\kruskals(2nd)\kruskals(2nd).cpp(27): error C2864: 'krushkal::next' : only static const integral data members can be initialized within a class
+     1>c:\tahawork\semester 4\data structures\kruskals(2nd)\kruskals(2nd)\kruskals(2nd).cpp(34): error C2864: 'stackk::next' : only static const integral data members can be initialized within a class
+     1>Done Building Project "C:\tahawork\Semester 4\Data Structures\kRUSKALS(2ND)\kRUSKALS(2ND)\kRUSKALS(2ND).vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.14

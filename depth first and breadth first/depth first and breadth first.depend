@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541853719 source:c:\tahawork\semester 4\data structures\depth first and breadth first\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+

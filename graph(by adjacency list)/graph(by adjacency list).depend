@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541244908 source:c:\tahawork\semester 4\data structures\graph(by adjacency list)\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+

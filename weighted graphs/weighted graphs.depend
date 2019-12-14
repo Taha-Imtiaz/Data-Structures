@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541599355 source:c:\tahawork\semester 4\data structures\weighted graphs\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+

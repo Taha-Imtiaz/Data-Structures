@@ -1,0 +1,36 @@
+﻿Build started 10/7/2018 12:40:10 PM.
+     1>Project "C:\tahawork\Semester 4\Data Structures\INFIX TO POSTFIX CONVERTER\INFIX TO POSTFIX CONVERTER\INFIX TO POSTFIX CONVERTER.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\tahawork\Semester 4\Data Structures\INFIX TO POSTFIX CONVERTER\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\INFIX TO POSTFIX CONVERTER.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\INFIX TO POSTFIX CONVERTER.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "INFIX TO POSTFIX CONVERTER.cpp"
+         INFIX TO POSTFIX CONVERTER.cpp
+     1>c:\tahawork\semester 4\data structures\infix to postfix converter\infix to postfix converter\infix to postfix converter.cpp(57): warning C4715: 'pop_value' : not all control paths return a value
+     1>c:\tahawork\semester 4\data structures\infix to postfix converter\infix to postfix converter\infix to postfix converter.cpp(73): warning C4715: 'Peak' : not all control paths return a value
+     1>c:\tahawork\semester 4\data structures\infix to postfix converter\infix to postfix converter\infix to postfix converter.cpp(107): warning C4715: 'Check_Precedence' : not all control paths return a value
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\INFIX TO POSTFIX CONVERTER.exe.embed.manifest.res" "Debug\INFIX TO POSTFIX CONVERTER_manifest.rc" 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\tahawork\Semester 4\Data Structures\INFIX TO POSTFIX CONVERTER\Debug\INFIX TO POSTFIX CONVERTER.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\INFIX TO POSTFIX CONVERTER.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\tahawork\Semester 4\Data Structures\INFIX TO POSTFIX CONVERTER\Debug\INFIX TO POSTFIX CONVERTER.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\tahawork\Semester 4\Data Structures\INFIX TO POSTFIX CONVERTER\Debug\INFIX TO POSTFIX CONVERTER.lib" /MACHINE:X86 "Debug\INFIX TO POSTFIX CONVERTER.exe.embed.manifest.res"
+         "Debug\INFIX TO POSTFIX CONVERTER.obj"
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\INFIX TO POSTFIX CONVERTER.exe.embed.manifest" /manifest "Debug\INFIX TO POSTFIX CONVERTER.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\INFIX TO POSTFIX CONVERTER.exe.embed.manifest.res" "Debug\INFIX TO POSTFIX CONVERTER_manifest.rc" 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\tahawork\Semester 4\Data Structures\INFIX TO POSTFIX CONVERTER\Debug\INFIX TO POSTFIX CONVERTER.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\INFIX TO POSTFIX CONVERTER.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\tahawork\Semester 4\Data Structures\INFIX TO POSTFIX CONVERTER\Debug\INFIX TO POSTFIX CONVERTER.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\tahawork\Semester 4\Data Structures\INFIX TO POSTFIX CONVERTER\Debug\INFIX TO POSTFIX CONVERTER.lib" /MACHINE:X86 "Debug\INFIX TO POSTFIX CONVERTER.exe.embed.manifest.res"
+         "Debug\INFIX TO POSTFIX CONVERTER.obj"
+         Debug\stdafx.obj
+         INFIX TO POSTFIX CONVERTER.vcxproj -> C:\tahawork\Semester 4\Data Structures\INFIX TO POSTFIX CONVERTER\Debug\INFIX TO POSTFIX CONVERTER.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\INFIX TO POSTFIX CONVERTER.unsuccessfulbuild".
+         Touching "Debug\INFIX TO POSTFIX CONVERTER.lastbuildstate".
+     1>Done Building Project "C:\tahawork\Semester 4\Data Structures\INFIX TO POSTFIX CONVERTER\INFIX TO POSTFIX CONVERTER\INFIX TO POSTFIX CONVERTER.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.94

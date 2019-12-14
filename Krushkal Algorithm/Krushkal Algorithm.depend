@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542109092 source:c:\tahawork\semester 4\data structures\krushkal algorithm\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+

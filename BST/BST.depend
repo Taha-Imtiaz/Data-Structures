@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537667440 source:c:\tahawork\semester 4\data structures\bst\main.cpp
+	<stdlib.h>
+	<iostream>
+
